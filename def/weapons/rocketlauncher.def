@@ -350,7 +350,7 @@ entityDef projectile_rocket
 	"fx_detonate"				"effects/weapons/rocketlauncher/detonate.fx"
 	"fx_detonate_mp"			"effects/weapons/rocketlauncher/detonate_mp.fx"
 	"fx_impact"				"effects/weapons/rocketlauncher/impact.fx"
-	"fx_impact_mp"				"effects/weapons/rocketlauncher/impact_mp.fx"
+	"fx_impact_mp"				"effects/weapons/lightninggun/impactRocketMod.fx" //modded
 	"fx_impact_water"			"effects/ambient/splash_med.fx"
 	"fx_impact_rock"			"effects/weapons/rocketlauncher/impact_concrete.fx"
 	"fx_impact_rock_mp"			"effects/weapons/rocketlauncher/impact_mp.fx"
