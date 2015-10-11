@@ -70,7 +70,7 @@ entityDef weapon_rocketlauncher
 	"joint_world_flash"			"muzzle_flash"
 
 	"inv_weapon"				"weapon_rocketlauncher"
-	"inv_start_ammo_rocketlauncher"	"10"
+	"inv_start_ammo_rocketlauncher"	"1"
 	"inv_item"					"1"
 	"inv_icon"					"gfx/guis/hud/icons/item_rocket.tga"
 	"inv_name"					"#str_107409"	
@@ -330,7 +330,7 @@ entityDef projectile_rocket
 	"def_damage"				"damage_rocketDirect"
 	"def_splash_damage"			"damage_rocketSplash"
 																											
-	"speed"						"900"
+	"speed"						"90"
 	"fuse"						"6"
 	"push"						"48000"
 	
