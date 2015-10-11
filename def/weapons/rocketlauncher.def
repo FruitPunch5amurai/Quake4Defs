@@ -77,7 +77,7 @@ entityDef weapon_rocketlauncher
 
 	"fireRate"					".8"
 	"reloadRate"				".8"
-	"spread"					"0"
+	"spread"					"5"
 
 	"ammoRegenStep"				"1"
 	"ammoRegenTime"				"1750"
@@ -326,12 +326,12 @@ entityDef projectile_rocket
 	"noshadows"					"1"
 	"clipmask_largeshot"		"1"
 								
-	"model"						"models/weapons/rocketlauncher/rocket.lwo"
+	"model"						""
 	"def_damage"				"damage_rocketDirect"
 	"def_splash_damage"			"damage_rocketSplash"
 																											
 	"speed"						"900"
-	"fuse"						"6"
+	"fuse"						"1"
 	"push"						"48000"
 	
 							
@@ -345,17 +345,17 @@ entityDef projectile_rocket
 	"decal_size"				"75"
 
 	"fx_fly"				"effects/weapons/rocketlauncher/fly.fx"
-	"fx_fly_mp"				"effects/weapons/rocketlauncher/fly_mp.fx"
-	"fx_fly_mp_low"			"effects/weapons/rocketlauncher/fly_mp_low.fx"
+	"fx_fly_mp"				"effects/weapons/dmg/fly.fx"
+	"fx_fly_mp_low"			"effects/weapons/dmg/fly.fx"
 	"fx_detonate"				"effects/weapons/rocketlauncher/detonate.fx"
-	"fx_detonate_mp"			"effects/weapons/rocketlauncher/detonate_mp.fx"
+	"fx_detonate_mp"			"effects/weapons/lightninggun/impact_mp.fx"
 	"fx_impact"				"effects/weapons/rocketlauncher/impact.fx"
-	"fx_impact_mp"				"effects/weapons/lightninggun/impactRocketMod.fx" //modded
+	"fx_impact_mp"				"effects/weapons/lightninggun/impact_mp.fx" //modded-> effects/weapons/rocketlauncher/impact_mp.fx
 	"fx_impact_water"			"effects/ambient/splash_med.fx"
 	"fx_impact_rock"			"effects/weapons/rocketlauncher/impact_concrete.fx"
-	"fx_impact_rock_mp"			"effects/weapons/rocketlauncher/impact_mp.fx"
+	"fx_impact_rock_mp"			"effects/weapons/lightninggun/impact_mp.fx"
 	"fx_impact_concrete"			"effects/weapons/rocketlauncher/impact_concrete.fx"
-	"fx_impact_concrete_mp"			"effects/weapons/rocketlauncher/impact_mp.fx"
+	"fx_impact_concrete_mp"			"effects/weapons/lightninggun/impact_mp.fx"
 	
 	"snd_fly"				"player_rocketlauncher_fly"
 
@@ -369,7 +369,7 @@ entityDef projectile_rocket_mp
 {
 	"inherit"					"projectile_rocket"
 	"predictTime"				"50"
-	"speed"						"935"
+	"speed"						"300"
 	"size"						"5 5 5"
 	"no_impact_prediction"		"1"
 }
@@ -407,7 +407,7 @@ entityDef damage_rocketDirect
 entityDef damage_rocketDirect_mp
 {
 	"inherit"					"damage_rocketDirect"
-	"damage"					"100"
+	"damage"					"150"
 	"knockback"					"110"
 }
 
@@ -433,5 +433,5 @@ entityDef damage_rocketSplash_mp
 	"inherit"					"damage_rocketSplash"
 	"knockback"					"110"
 	"damage"					"100"
-	"radius"					"120"
+	"radius"					"240"
 }

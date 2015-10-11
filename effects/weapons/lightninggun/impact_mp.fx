@@ -23,9 +23,9 @@ effect effects/weapons/lightninggun/impact_mp
 			start
 			{
 				position { cylinder -0.1,0.35,0.35,-0.1,-0.35,-0.35 }
-				size { box 14,16 }
-				offset { box 5,-5,-5,40,40,40 }
-				length { box 40,0,0,120,0,0 }
+				size { box 28,32 }
+				offset { box 5,-5,-5,5,5,5 }
+				length { box 100,0,0,300,0,0 }
 			}
 
 			motion
