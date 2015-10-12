@@ -16,7 +16,7 @@ effect effects/weapons/lightninggun/impact_mp
 			jitterRate	0
 			jitterSize	3,7,7
 			jitterTable	"halfsintable"
-			material	"gfx/effects/weapons/lgun_smallbolt"
+			material	"gfx/effects/weapons/lgun_smallbolt.tga"
 			generatedOriginNormal
 			flipNormal
 
