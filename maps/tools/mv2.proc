@@ -1,0 +1,18 @@
+PROC "4"
+
+63
+
+model { /* name = */ "func_static_floor" /* numSurfaces = */ 1
+
+/* surface 0 */ { "textures/editor/128_128_modview" /* numVerts = */ 4 /* numIndexes = */ 6
+( -1376 -1408 0 -1.9609375 6.27734375 0 0 1 ) ( 1376 1408 0 28.6640625 33.71484375 0 0 1 ) ( 1376 -1408 0 28.6640625 6.27734375 0 0 1 ) 
+( -1376 1408 0 -1.9609375 33.71484375 0 0 1 ) 
+0 1 2 0 3 1 
+}
+
+}
+
+model { /* name = */ "_area0" /* numSurfaces = */ 0 /* sky */ 0
+
+}
+

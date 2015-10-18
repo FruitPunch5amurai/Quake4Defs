@@ -156,7 +156,7 @@ entityDef weapon_gauntlet_mp
 	"muzzle_kick_offset"		"0 0 0"
 	"recoilTime"			"0"
 	"recoilAngles"			"0 0 0"
-	"range"						"150"
+	"range"						"300"
 }
 
 //--------------------------------------------------------------------------------------------------------------------
@@ -204,7 +204,7 @@ entityDef damage_gauntlet
 	"deathPush"					"200"
 	"deathPushMin"				"2000 400"
 	"deathPushMax"				"4000 500"
-	"knockback"					"100"
+	"knockback"					"300"
 	
 	"bleed"						"1"
 }

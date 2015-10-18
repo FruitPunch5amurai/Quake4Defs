@@ -187,7 +187,7 @@ entityDef weapon_nailgun
 
 entityDef weapon_nailgun_mp
 {
-	"inherit"				"weapon_nailgun"
+	"inherit"				""
 	"clipsize"				"0"
 	"def_mod3"				""
 	"hidesurface"				"models/weapons/nailgun_mod_ammo"

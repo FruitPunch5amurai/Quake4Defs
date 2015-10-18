@@ -1,0 +1,23 @@
+reverb
+{
+	{ 0 Sewerpipe }
+	{ 1 Hallway }
+	{ 2 Hallway }
+	{ 3 Sewerpipe }
+	{ 4 Sewerpipe }
+	{ 5 Hallway }
+	{ 6 Hallway }
+	{ 7 Hallway }
+	{ 8 Sewerpipe }
+	{ 9 Hallway }
+	{ 10 Sewerpipe }
+	{ 11 Hallway }
+	{ 12 Hallway }
+	{ 13 Hallway }
+	{ 14 Hallway }
+	{ 15 Hallway }
+	{ 16 Sewerpipe }
+	{ 17 Sewerpipe }
+	{ 18 Hallway }
+	{ 19 Plain }
+}

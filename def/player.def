@@ -1089,8 +1089,8 @@ entityDef player_marine_mp
 
 	"powerup_effect_joints"		"*body -*r_wrist r_wrist -*l_wrist l_wrist"
 
-	"pm_crouchspeed"		"500"
-	"pm_speed"			"320"
+	"pm_crouchspeed"		"180"
+	"pm_speed"			"700"
 	"pm_walkspeed"			"160"
 
 	"fx_spawn"			"effects/mp/player/spawn.fx"

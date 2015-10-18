@@ -185,7 +185,7 @@ entityDef weapon_machinegun
 
 entityDef weapon_machinegun_mp
 {
-	"inherit"				"weapon_machinegun"
+	"inherit"				""
 	"clipsize"				"0"
   	"def_mod1"				""
   	"inv_icon"				"gfx/guis/hud/icons/item_machinegun_colored"

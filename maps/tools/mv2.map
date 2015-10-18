@@ -1,0 +1,143 @@
+Version 3
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+ brushDef3
+ {
+  ( 0 0 -1 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 0 1 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 -1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( -1 0 0 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 1 0 0 1344 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+ }
+}
+// primitive 1
+{
+ brushDef3
+ {
+  ( 0 0 -1 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 0 1 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 1 0 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( -1 0 0 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 -1 0 1408 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+ }
+}
+// primitive 2
+{
+ brushDef3
+ {
+  ( 0 0 -1 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 0 1 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 -1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 1 0 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( -1 0 0 1408 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+ }
+}
+// primitive 3
+{
+ brushDef3
+ {
+  ( 0 0 -1 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 0 1 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 -1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 1 0 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( -1 0 0 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 1 0 1408 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+ }
+}
+// primitive 4
+{
+ brushDef3
+ {
+  ( 0 0 1 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 -1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 1 0 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( -1 0 0 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 0 -1 1408 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+ }
+}
+// primitive 5
+{
+ brushDef3
+ {
+  ( 0 0 -1 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 -1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 1 0 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 1 0 -1440 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( -1 0 0 -1376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+  ( 0 0 1 1344 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/common/caulk"
+ }
+}
+}
+// entity 1
+{
+"classname" "func_static"
+"name" "func_static_floor"
+"model" "func_static_floor"
+"origin" "32 0 0"
+// primitive 0
+{
+ patchDef2
+ {
+  "textures/editor/128_128_modview"
+  ( 3 3 0 0 0 )
+  (
+   (  ( -1344 -1408 0 -1.9609375 6.27734375 ) ( -1344 0 0 -1.9609375 19.99609375 ) ( -1344 1408 0 -1.9609375 33.71484375 ) )
+   (  ( 32 -1408 0 13.3515625 6.27734375 ) ( 32 0 0 13.3515625 19.99609375 ) ( 32 1408 0 13.3515625 33.71484375 ) )
+   (  ( 1408 -1408 0 28.6640625 6.27734375 ) ( 1408 0 0 28.6640625 19.99609375 ) ( 1408 1408 0 28.6640625 33.71484375 ) )
+  )
+ }
+}
+}
+// entity 2
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"origin" "-576 576 8"
+}
+// entity 3
+{
+"classname" "func_cameraview"
+"name" "camera"
+"origin" "0 -192 96"
+"cameraTarget" "test_model"
+}
+// entity 4
+{
+"classname" "test_model"
+"name" "test_model"
+"origin" "0 0 -48"
+"angle" "270"
+}
+// entity 5
+{
+"classname" "light"
+"name" "light_rear_right"
+"origin" "-128 0 -128"
+"noshadows" "0"
+"nospecular" "0"
+"nodiffuse" "0"
+"falloff" "0"
+"texture" "lights/j_nofall"
+"_color" "1 1 1"
+"light_radius" "256 256 256"
+}
+// entity 6
+{
+"classname" "light"
+"name" "light_front_left"
+"origin" "128 0 128"
+"noshadows" "0"
+"nospecular" "0"
+"nodiffuse" "0"
+"falloff" "0"
+"texture" "lights/j_nofall"
+"_color" "1 1 1"
+"light_radius" "256 256 256"
+}

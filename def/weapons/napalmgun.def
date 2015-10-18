@@ -156,7 +156,7 @@ entityDef weapon_napalmgun
 
 entityDef weapon_napalmgun_mp
 {
-	"inherit"			"weapon_napalmgun"
+	"inherit"			""
 	"clipSize"			"0"
 	"inv_icon"			"gfx/guis/hud/icons/item_fire_colored"
 	"mtr_simple_icon"	"gfx/guis/hud/simpleicons/item_napalmgun"

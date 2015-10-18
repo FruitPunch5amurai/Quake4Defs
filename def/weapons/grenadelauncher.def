@@ -138,7 +138,7 @@ entityDef weapon_grenadelauncher
 
 entityDef weapon_grenadelauncher_mp
 {
-	"inherit"				"weapon_grenadelauncher"
+	"inherit"				""
 	"clipsize"				"0"
 	"editor_ignore"				"1"
 	"inv_icon"				"gfx/guis/hud/icons/item_grenade_colored"

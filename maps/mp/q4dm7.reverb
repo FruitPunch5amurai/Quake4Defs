@@ -1,0 +1,43 @@
+reverb
+{
+	{ 0 Hallway }
+	{ 1 Sewerpipe }
+	{ 2 Sewerpipe }
+	{ 3 Hallway }
+	{ 4 Hallway }
+	{ 5 Hallway }
+	{ 6 Sewerpipe }
+	{ 7 Hallway }
+	{ 8 Hallway }
+	{ 9 Mountains }
+	{ 10 Hallway }
+	{ 11 Hallway }
+	{ 12 Stonecorridor }
+	{ 13 Sewerpipe }
+	{ 14 Sewerpipe }
+	{ 15 Sewerpipe }
+	{ 16 Bathroom }
+	{ 17 Mountains }
+	{ 18 Sewerpipe }
+	{ 19 Hallway }
+	{ 20 Hallway }
+	{ 21 Sewerpipe }
+	{ 22 Hallway }
+	{ 23 Hallway }
+	{ 24 Hallway }
+	{ 25 Hallway }
+	{ 26 Hallway }
+	{ 27 Hallway }
+	{ 28 Bathroom }
+	{ 29 Sewerpipe }
+	{ 30 Sewerpipe }
+	{ 31 Sewerpipe }
+	{ 32 Mountains }
+	{ 33 Hallway }
+	{ 34 Hallway }
+	{ 35 Hallway }
+	{ 36 Hallway }
+	{ 37 Mountains }
+	{ 38 Bathroom }
+	{ 39 Mountains }
+}

@@ -147,7 +147,7 @@ entityDef weapon_hyperblaster
 
 entityDef weapon_hyperblaster_mp
 {
-	"inherit"				"weapon_hyperblaster"
+	"inherit"				""
 	"clipsize"				"0"
 	"editor_ignore"				"1"
 	"inv_icon"				"gfx/guis/hud/icons/item_hyperblaster_colored"

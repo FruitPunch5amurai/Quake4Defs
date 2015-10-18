@@ -169,7 +169,7 @@ entityDef weapon_railgun
 
 entityDef weapon_railgun_mp
 {
-	"inherit"				"weapon_railgun"
+	"inherit"				""
 	"model_view" 				"weapon_railgun_view_mp"
 	"editor_ignore"				"1"
 	"clipsize"				"0"

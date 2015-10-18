@@ -1,0 +1,18 @@
+reverb
+{
+	{ 0 Hangar }
+	{ 1 Hangar }
+	{ 2 Sewerpipe }
+	{ 3 Sewerpipe }
+	{ 4 Sewerpipe }
+	{ 5 Sewerpipe }
+	{ 6 Bathroom }
+	{ 7 Bathroom }
+	{ 8 Bathroom }
+	{ 9 Bathroom }
+	{ 10 Bathroom }
+	{ 11 Sewerpipe }
+	{ 12 Sewerpipe }
+	{ 13 Sewerpipe }
+	{ 14 Bathroom }
+}

@@ -150,7 +150,7 @@ entityDef weapon_shotgun
 
 entityDef weapon_shotgun_mp
 {
-	"inherit"				"weapon_shotgun"
+	"inherit"				""
 	"clipsize"				"0"
 	"hidesurface"				"models/weapons/shotgun/clip"
 	// q3 style spread
